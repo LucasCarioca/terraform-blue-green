@@ -18,7 +18,7 @@ The full process to roll out changes using blue/green would be the following:
 # this is the initial deployment
 terraform apply 
 
-# release current changes
+# release current changes to green instance
 terraform apply -var green_enabled=true -target=module.green
 
 # once green is up and validated, update blue to match green
