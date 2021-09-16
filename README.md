@@ -1,5 +1,6 @@
 # Terraform Blue Green deployment
 
+[Diagram Presentation](https://lucid.app/lucidchart/invitations/accept/inv_01366e3b-f1c7-4736-b16b-cfe37c638506?viewport_loc=-480%2C-584%2C1600%2C1596%2C0_0)
 
 This is a simple test repo of an idea on how to create a blue green deployment implementation for terraform. 
 
