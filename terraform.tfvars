@@ -1,2 +1,2 @@
 sa_name = "testsabglucasblue"
-tier    = "Standard"
+tier    = "Premium"
